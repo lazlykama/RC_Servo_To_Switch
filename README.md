@@ -21,7 +21,7 @@ These are not implemented at the moment, but with minimal work you can implement
 
 ## Build your hardware
 
-_TODO_
+![Hardware](images/hardware.png)
 
 ## Upload the firmware
 
