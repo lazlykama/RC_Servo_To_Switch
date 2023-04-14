@@ -2,7 +2,7 @@
 
 Convert RC Servo PWM into an on/off output
 
-I developed this into my RC car to make possible turn on / off the lights based on a servo output, so practically remotely. I attached on of my switch in my transmitter to a channel, so the output is -100% or +100% (this is the servo PWM marking).
+I developed this into my RC car to make possible turn on / off the lights based on a servo output remotely. I attached to output of a switch in my transmitter to the channel, so the output is -100% or +100% (this is the servo PWM marking).
 
 ## Features
 
